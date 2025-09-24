@@ -10,21 +10,92 @@
 - **Semester:** Summer 2025
 - **University:** BRAC University
 
+### 👨‍🏫 Instructor Information
+- **Professor:** Dr. Farig Sadeque
+- **Title:** Associate Professor
+- **Department:** Computer Science and Engineering
+- **University:** BRAC University
+- **Google Classroom:** https://classroom.google.com/c/Nzg2MzYyNzQyNDg0?cjc=ailtmmov
+- **Consultation:** https://calendar.app.google/LXSrnyDF9a7B9sXq6
+
 ---
 
 ## 📚 Course Overview
 
-This repository contains all materials, assignments, lab work, and projects for CSE440 - Natural Language Processing II course offered during Summer 2025 at BRAC University.
+This repository contains all materials, assignments, lab work, and projects for CSE440 - Natural Language Processing II course offered during Summer 2025 at BRAC University. This is primarily an **algorithms course** with extensive programming components, focusing on practical NLP implementations rather than pure linguistics or machine learning theory.
 
-### Course Topics Covered
-- Introduction to Natural Language Processing
-- Linguistic Essentials for NLP
-- Machine Learning Essentials
-- Word Representation & Embeddings
-- Sequence Learning
-- Neural Networks & RNNs
-- Machine Translation
-- And more advanced NLP concepts...
+### 🎯 Course Philosophy
+**What this course IS:**
+- An algorithms-focused NLP course
+- Extensive programming with Python
+- Practical implementation of NLP techniques
+- Application of linguistics knowledge as needed
+
+**What this course is NOT:**
+- A pure linguistics course (we learn linguistics as required)
+- A machine learning/neural networks course (basic refresher provided)
+
+### 📋 Course Structure & Assessment
+- **Attendance:** 0%
+- **Lab Assignments:** 25%
+- **Quizzes:** 15% (best 3 out of 4)
+- **Midterm Exam:** 30%
+- **Final Exam:** 30%
+
+### 🔍 Why NLP is Challenging
+
+**Ambiguity Issues:**
+- **Phonetics:** "I scream" vs "Ice cream"
+- **Morphology:** "Union-ized" vs "Un-ionized"
+- **Syntax:** "Squad helps dog bite victim" (multiple interpretations)
+- **Semantics:** "Ball" (orb vs dance)
+- **Discourse:** Context-dependent meanings
+
+**Variability:** Multiple ways to express the same concept
+- "He bought it" = "He purchased it" = "He acquired it" = "It was sold to him"
+
+**Language Evolution:** Continuous change and borrowing from other languages
+
+### 📖 Comprehensive Course Topics
+
+#### **Linguistics Essentials**
+- Sentence Segmentation
+- Tokenization
+- Lemmatization/Stemming
+- Parts-of-Speech (POS) Tagging
+- Named Entity Recognition (NER)
+- Parsing
+- Coreference Resolution
+
+#### **Machine Learning Essentials Review**
+- Probability Theory Review
+- Naive Bayes & Logistic Regression
+- Dataset Splits, Evaluation Metrics
+- Statistical Significance
+- Essential ML Mathematics Refresher
+
+#### **Text Representation**
+- Representation Fundamentals
+- Word Embeddings
+- Contextual Embeddings
+
+#### **Sequence Learning & Tagging**
+- Sequence Tagging Basics
+- Markov Models
+- Deep Learning Architectures
+- Recurrent Neural Networks (RNNs)
+
+#### **Machine Translation**
+- Probabilistic Translation Models
+- Sequence-to-Sequence (Seq2seq) Models
+- Attention Mechanisms
+- Translation Challenges
+
+#### **Advanced Topics** (Time Permitting)
+- **Parsing:** Constituency & Dependency Parsing
+- **Coreference Resolution**
+- **Text Generation:** Encoder-Decoder Algorithms
+- **Question Answering Systems**
 
 ---
 
@@ -153,26 +224,64 @@ The course utilizes several authoritative texts in Natural Language Processing:
 
 ---
 
-## 🏆 Learning Outcomes
+## 🏆 Learning Outcomes & Prerequisites
+
+### Prerequisites
+- **Programming Experience:** Several semesters of programming experience
+- **Primary Language:** Python proficiency required
+- **Mathematics:** Ability to understand mathematical notation (helpful but not required)
+- **Linguistics:** Helpful but not required (learned as needed)
+- **Machine Learning:** Basic understanding helpful (refresher provided)
 
 By the end of this course, students will be able to:
 
-1. Understand fundamental concepts and techniques in Natural Language Processing
-2. Apply machine learning algorithms to text data
-3. Implement various NLP preprocessing techniques
-4. Work with word embeddings and vector representations
-5. Build text classification and sentiment analysis models
-6. Develop question-answering systems
-7. Understand neural network approaches to NLP tasks
+1. **Implement core NLP algorithms** for text processing and analysis
+2. **Apply linguistic processing techniques** including tokenization, POS tagging, and NER
+3. **Develop machine learning models** for various NLP tasks
+4. **Work with word embeddings** and contextual representations
+5. **Build sequence tagging systems** using Markov models and RNNs
+6. **Create translation systems** using seq2seq models and attention mechanisms
+7. **Handle NLP challenges** including ambiguity, variability, and language change
+8. **Evaluate NLP systems** using appropriate metrics and statistical significance testing
+9. **Understand parsing techniques** for syntactic analysis
+10. **Develop end-to-end NLP applications** for real-world problems
 
 ---
 
 ## 📊 Assessment Structure
 
-- **Laboratory Assignments:** Hands-on programming and implementation tasks
-- **Midterm Examination:** Theoretical and practical understanding
-- **Final Examination:** Comprehensive assessment of course material
+| Component | Weight | Details |
+|-----------|--------|----------|
+| **Laboratory Assignments** | 25% | Hands-on programming and NLP algorithm implementation |
+| **Quizzes** | 15% | Best 3 out of 4 quizzes (regular assessment of concepts) |
+| **Midterm Examination** | 30% | Theoretical understanding and practical application |
+| **Final Examination** | 30% | Comprehensive assessment of all course material |
+| **Attendance** | 0% | Not graded but highly recommended for success |
+
+### Key Projects & Assignments
 - **Course Project:** Question Answer Classification system development
+- **Lab Work:** Progressive implementation of NLP algorithms and techniques
+- **Regular Quizzes:** Continuous assessment of theoretical and practical knowledge
+
+---
+
+## 🎓 Class Resources & Support
+
+### 📚 Google Classroom
+- **Primary Hub:** All notifications, course content, books, lectures, and recordings
+- **Classroom Link:** https://classroom.google.com/c/Nzg2MzYyNzQyNDg0?cjc=ailtmmov
+- **Access:** Use the QR code provided in class or join via the link above
+
+### 🕐 Professor Consultation Hours
+- **Instructor:** Dr. Farig Sadeque
+- **Booking Required:** Preferred appointment-based consultation
+- **Schedule Appointment:** https://calendar.app.google/LXSrnyDF9a7B9sXq6
+- **Availability:** Regular consultation hours (booking recommended)
+
+### 💡 Academic Support
+- **Office Hours:** Available through appointment booking system
+- **Course Questions:** Use Google Classroom for course-related queries
+- **Technical Support:** Lab instructors available during lab sessions
 
 ---
 
@@ -182,13 +291,21 @@ This repository is for academic purposes. If you're a fellow student or research
 
 ---
 
-## 📧 Contact
+## 📧 Contact Information
 
+### Student Contact
 **Fahad Nadim Ziad**
 - Student ID: 24341216
 - University: BRAC University
 - Course: CSE440 - Natural Language Processing II
 - Semester: Summer 2025
+
+### Course Instructor
+**Dr. Farig Sadeque**
+- Associate Professor, Computer Science and Engineering
+- BRAC University
+- Consultation: https://calendar.app.google/LXSrnyDF9a7B9sXq6
+- Google Classroom: https://classroom.google.com/c/Nzg2MzYyNzQyNDg0?cjc=ailtmmov
 
 ---
 
