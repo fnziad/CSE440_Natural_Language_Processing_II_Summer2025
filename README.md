@@ -15,8 +15,6 @@
 - **Title:** Associate Professor
 - **Department:** Computer Science and Engineering
 - **University:** BRAC University
-- **Google Classroom:** https://classroom.google.com/c/Nzg2MzYyNzQyNDg0?cjc=ailtmmov
-- **Consultation:** https://calendar.app.google/LXSrnyDF9a7B9sXq6
 
 ---
 
